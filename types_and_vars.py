@@ -1,8 +1,8 @@
 # ALAB 351.2
 # Author: Eren Kim
 
-###############################################
-# Part 1: Python Basics and Output Formatting
+
+# Part 1: Python Basics and Output
 
 # The following code declares three variables (name, age, height) and prints out an introduction. 
 name = "Alice" # name as a string
@@ -32,3 +32,4 @@ print(f"\nThe area of a rectangle with width = {width} and height = {height} is 
 # End of rectangle calculation 
 
 
+# End of Part 1
