@@ -23,3 +23,14 @@ Enter a floating number:1.0
 2 * 1.0 = 2.0
 2 / 1.0 = 2.0
 
+# Console output for string_fun.py
+Enter a word to play with: star
+The word length is 4 .
+The word in all uppercase is STAR
+The word printed out 3 times in a row is starstarstar
+The word printed out 3 times on separate lines is:
+star
+star
+star
+
+# End of README.md
