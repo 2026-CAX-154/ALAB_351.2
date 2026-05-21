@@ -32,4 +32,4 @@ print(f"\nThe area of a rectangle with width = {width} and height = {height} is 
 # End of rectangle calculation 
 
 
-# End of Part 1
+# End of Python script for Part 1
